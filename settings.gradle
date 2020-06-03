@@ -1,0 +1,2 @@
+rootProject.name='GDevKotlinProject'
+include ':app'
